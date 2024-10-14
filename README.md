@@ -1,6 +1,4 @@
-Here's the combined README description with both details about A2OJ Ladders and your solutions:
 
----
 
 # A2OJ Ladder 15 - Difficulty Level 4 Solutions
 
